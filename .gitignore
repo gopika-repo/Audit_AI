@@ -1,0 +1,44 @@
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+# Virtual Environment
+venv/
+.venv/
+
+# Environment files
+.env
+.env.local
+
+# Docker
+*.log
+
+# VS Code
+.vscode/
+
+# Mac/Linux
+.DS_Store
+
+# Node modules
+node_modules/
+
+# Next.js
+.next/
+
+# Testing
+.pytest_cache/
+
+# Alembic cache
+alembic/versions/__pycache__/
+
+# Coverage
+.coverage
+htmlcov/
